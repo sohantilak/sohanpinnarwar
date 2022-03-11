@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @sohantilak
-- 👀 I’m interested in deep learning
+- 👀 I’m interested in full stack development
 - 🌱 I’m currently learning c/c++
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me by mr.sohanpinnarwar@gmail.com
